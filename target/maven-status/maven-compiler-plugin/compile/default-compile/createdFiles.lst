@@ -1,0 +1,6 @@
+com\qa\assignment1\pages\RegisterPage.class
+com\qa\assignment1\util\WebEventListener.class
+com\qa\assignment1\ExtentReportListener\ExtentReportListener.class
+com\qa\assignment1\base\TestBase.class
+com\qa\assignment1\pages\AlertsPage.class
+com\qa\assignment1\util\TestUtil.class

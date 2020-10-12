@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Assignment1 Application Test Automation Test Suite" verbose="1">
+	
+	<listeners>
+		<listener class-name="com.qa.assignment1.ExtentReportListener.ExtentReportListener" />
+	</listeners>
+	
+	<test name="Assignment1 App Test Cases">
+		<classes>
+			<class name="com.qa.assignment1.testcases.RegisterPageTest"></class>	
+			<class name="com.qa.assignment1.testcases.AlertsPageTest"></class>
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,46 @@
+2020-10-07 18:20:18,845  INFO [main] TestBase:43 - ****************************** Starting test cases execution  *****************************************
+2020-10-07 18:20:18,850  INFO [main] TestBase:46 - launching chrome broswer
+2020-10-07 18:20:25,806  INFO [main] TestBase:64 - entering application URL
+2020-10-07 18:20:31,006  INFO [main] TestBase:33 - ****************************** starting test case *****************************************
+2020-10-07 18:20:31,007  INFO [main] TestBase:34 - ****************************** RegisterPageTitleTest *****************************************
+2020-10-07 18:20:31,038  INFO [main] TestBase:37 - ****************************** ending test case *****************************************
+2020-10-07 18:20:31,039  INFO [main] TestBase:38 - ****************************** RegisterPageTitleTest *****************************************
+2020-10-07 18:20:32,004  INFO [main] TestBase:58 - ****************************** Browser is closed *****************************************
+2020-10-07 18:20:32,996  INFO [main] TestBase:43 - ****************************** Starting test cases execution  *****************************************
+2020-10-07 18:20:32,997  INFO [main] TestBase:46 - launching chrome broswer
+2020-10-07 18:20:39,435  INFO [main] TestBase:64 - entering application URL
+2020-10-07 18:20:45,938  INFO [main] TestBase:58 - ****************************** Browser is closed *****************************************
+2020-10-07 18:20:45,941  INFO [main] TestBase:43 - ****************************** Starting test cases execution  *****************************************
+2020-10-07 18:20:45,942  INFO [main] TestBase:46 - launching chrome broswer
+2020-10-07 18:20:51,966  INFO [main] TestBase:64 - entering application URL
+2020-10-07 18:20:58,532  INFO [main] TestBase:58 - ****************************** Browser is closed *****************************************
+2020-10-07 18:20:58,538  INFO [main] TestBase:43 - ****************************** Starting test cases execution  *****************************************
+2020-10-07 18:20:58,539  INFO [main] TestBase:46 - launching chrome broswer
+2020-10-07 18:21:04,511  INFO [main] TestBase:64 - entering application URL
+2020-10-07 18:21:11,007  INFO [main] TestBase:58 - ****************************** Browser is closed *****************************************
+2020-10-07 18:21:11,013  INFO [main] TestBase:43 - ****************************** Starting test cases execution  *****************************************
+2020-10-07 18:21:11,014  INFO [main] TestBase:46 - launching chrome broswer
+2020-10-07 18:21:16,712  INFO [main] TestBase:64 - entering application URL
+2020-10-07 18:21:24,733  INFO [main] TestBase:35 - ****************************** starting test case *****************************************
+2020-10-07 18:21:24,734  INFO [main] TestBase:36 - ****************************** AlertsPageTitleTest *****************************************
+2020-10-07 18:21:24,797  INFO [main] TestBase:39 - ****************************** ending test case *****************************************
+2020-10-07 18:21:24,798  INFO [main] TestBase:40 - ****************************** AlertsPageTitleTest *****************************************
+2020-10-07 18:21:25,749  INFO [main] TestBase:50 - ****************************** Browser is closed *****************************************
+2020-10-07 18:21:26,101 DEBUG [Finalizer] PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+2020-10-07 18:21:26,104 DEBUG [Finalizer] PoolingHttpClientConnectionManager:414 - Connection manager shut down
+2020-10-07 18:21:26,104 DEBUG [Finalizer] PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+2020-10-07 18:21:26,104 DEBUG [Finalizer] PoolingHttpClientConnectionManager:414 - Connection manager shut down
+2020-10-07 18:21:26,105 DEBUG [Finalizer] PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+2020-10-07 18:21:26,105 DEBUG [Finalizer] PoolingHttpClientConnectionManager:414 - Connection manager shut down
+2020-10-07 18:21:26,105 DEBUG [Finalizer] PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+2020-10-07 18:21:26,105 DEBUG [Finalizer] PoolingHttpClientConnectionManager:414 - Connection manager shut down
+2020-10-07 18:21:26,199 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-10-07 18:21:26,202 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-10-07 18:21:26,203 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-10-07 18:21:26,206 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-10-07 18:21:26,206 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/puven/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-10-07 18:21:26,676 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-10-07 18:21:26,678 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-10-07 18:21:26,679 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-10-07 18:21:26,680 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-10-07 18:21:26,680 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/puven/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
